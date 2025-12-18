@@ -78,6 +78,8 @@ remote.OnServerEvent:Connect(function(plr)
 end)
 
 -- local script
+
+
 local Players = game:GetService("Players")
 local StarterGui = game:GetService("StarterGui")
 local LocalPlayer = Players.LocalPlayer
